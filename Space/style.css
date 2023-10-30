@@ -1,0 +1,39 @@
+body{
+    color: white;
+     background-image: url("200w.webp");
+     background-size: cover;
+     text-align: center;
+     font-family: 'Orbitron', sans-serif;
+
+}
+
+.btn{
+     padding: 5px 12px;
+     background: white;
+     border:none;
+     font-family: inherit;
+
+}
+
+@font-face {
+     font-family: authentic back;
+     src: url(Authentic\ Back.ttf);
+}
+
+h2{
+     font-family: authentic back;
+     
+}
+
+.exp{
+     text-decoration: underline;
+}
+
+#x{
+     width: 250px;
+     background-color: aliceblue;
+}
+
+a:hover{
+     text-decoration: underline;
+}
